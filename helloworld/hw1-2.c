@@ -16,7 +16,7 @@ int main()
             }
         }
         if(cnt == 1){
-            printf("%d", i);
+            printf("%d ", i);
             cnt2++;
             if(cnt2 % 5 == 0){
                 printf("\n");
